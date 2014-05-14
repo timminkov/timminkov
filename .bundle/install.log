@@ -173,3 +173,11 @@ I, [2014-05-13T16:58:41.270233 #2594]  INFO -- : 0:  temple (0.6.7) from /Users/
 I, [2014-05-13T16:58:41.270515 #2594]  INFO -- : 0:  slim (2.0.2) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/slim-2.0.2.gemspec
 I, [2014-05-13T16:58:41.270806 #2594]  INFO -- : 0:  turbolinks (2.2.2) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/turbolinks-2.2.2.gemspec
 I, [2014-05-13T16:58:41.271068 #2594]  INFO -- : 0:  uglifier (2.5.0) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/uglifier-2.5.0.gemspec
+I, [2014-05-14T10:51:54.251102 #11380]  INFO -- : 0:  rake (10.3.1) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.1.gemspec
+I, [2014-05-14T10:51:55.009693 #11380]  INFO -- : 0:  minitest (5.3.3) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-5.3.3.gemspec
+I, [2014-05-14T10:51:55.010194 #11380]  INFO -- : 0:  rack (1.5.2) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-05-14T10:51:55.010521 #11380]  INFO -- : 0:  rack-protection (1.5.3) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.3.gemspec
+I, [2014-05-14T10:51:55.010804 #11380]  INFO -- : 0:  rack-test (0.6.2) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-14T10:51:55.011082 #11380]  INFO -- : 0:  tilt (1.4.1) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-05-14T10:51:57.863828 #11380]  INFO -- : 0:  sinatra (1.4.5) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.5.gemspec
+I, [2014-05-14T10:51:57.864275 #11380]  INFO -- : 0:  bundler (1.5.1) from /Users/timminkov/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
