@@ -42,7 +42,7 @@ body {
 
 @font-face {
   font-family: "Delicious-Bold";
-  src: font-url(/assets/fonts/Delicious-Bold.otf) format("truetype");
+  src: font-url(Delicious-Bold.otf) format("truetype");
 }
 
 @font-face {
