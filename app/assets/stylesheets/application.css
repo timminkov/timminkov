@@ -41,11 +41,6 @@ body {
 }
 
 @font-face {
-  font-family: "Delicious-Bold";
-  src: font-url('Delicious-Bold.otf') format("truetype");
-}
-
-@font-face {
   font-family: "Delicious-BoldItalic";
   src: url(/assets/Delicious-BoldItalic.otf) format("truetype");
 }
