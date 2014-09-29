@@ -35,31 +35,6 @@
   src: url(../assets/fonts/ARCADECLASSIC.TTF);
 }
 
-@font-face {
-  font-family: "Delicious-BoldItalic";
-  src: url(/assets/Delicious-BoldItalic.otf) format("truetype");
-}
-
-@font-face {
-  font-family: "Delicious-Heavy";
-  src: url(/assets/Delicious-Heavy.otf) format("truetype");
-}
-
-@font-face {
-  font-family: "Delicious-Italic";
-  src: url(/assets/Delicious-Italic.otf) format("truetype");
-}
-
-@font-face {
-  font-family: "Delicious-Roman";
-  src: font_url('/assets/Delicious-Roman.otf') format("truetype");
-}
-
-@font-face {
-  font-family: "Delicious-SmallCaps";
-  src: url(/assets/Delicious-SmallCaps.otf) format("truetype");
-}
-
 h1 {
   font-size: 3em;
 }
