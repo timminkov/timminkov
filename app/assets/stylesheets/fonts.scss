@@ -1,9 +1,43 @@
-@font-face {
-  font-family: "Delicious-Bold";
-  src: font-url('Delicious-Bold.otf') format("truetype");
-}
+@import url(http://fonts.googleapis.com/css?family=Lato);
 
 body {
-  background-color: #5E5757;
-  font-family: 'Delicious-Bold';
+  font-family: "Lato", Helvetica, sans-serif;
+  background: #caccc9;
+  color: #222;
+  padding: 0 1em;
 }
+
+.site__heading {
+  font-size: 3em;
+  font-weight: 100;
+}
+
+.site__nav {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 3em;
+}
+
+.site__nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+a {
+  color: #c3322f;
+  text-decoration: none;
+}
+
+.piece {
+  @media (min-width: 600px) {
+    float: left;
+    width: 30%;
+    margin-right: 3%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+
