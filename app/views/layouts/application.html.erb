@@ -4,6 +4,7 @@
   <title>TimmiT</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+  <%= analytics_init if Rails.env.production? %>
 </head>
 <body>
 
